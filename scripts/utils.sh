@@ -143,7 +143,7 @@ function get_images() {
     echo "registry.fit2cloud.com/jumpserver/web:${VERSION}"
     echo "registry.fit2cloud.com/jumpserver/video-worker:${VERSION}"
   else
-    echo "jumpserver/core:${VERSION}"
+    echo "deepvisionsjtu/core:${VERSION}"
     echo "jumpserver/koko:${VERSION}"
     echo "jumpserver/lion:${VERSION}"
     echo "jumpserver/magnus:${VERSION}"
